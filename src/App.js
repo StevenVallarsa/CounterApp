@@ -1,9 +1,10 @@
 import { Counter } from "./Counter";
+import { CounterClass } from "./CounterClass";
 
 function App() {
   return (
     <div>
-      <Counter />
+      <CounterClass />
     </div>
   );
 }
